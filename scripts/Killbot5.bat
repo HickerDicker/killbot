@@ -1,0 +1,1 @@
+C:\Killbot\files\killbot.txt
