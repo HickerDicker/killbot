@@ -1,1 +1,0 @@
-C:\Killbot\\files\memorykiller\memorykiller.exe
